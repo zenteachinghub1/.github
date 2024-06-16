@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" />
+  <img src="ZenTeachingHub.png" height=150 />
 </h1>
 
 # ZenTeachingHub
